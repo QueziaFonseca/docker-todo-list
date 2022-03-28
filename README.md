@@ -13,7 +13,7 @@ Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu
 ---
 
 
-# Sumário
+# Sumário - 
 
 - [Boas vindas ao repositório do projeto Docker Todo List!](#boas-vindas-ao-repositório-do-projeto-docker-todo-list)
 - [Habilidades](#habilidades)
