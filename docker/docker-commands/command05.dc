@@ -1,0 +1,2 @@
+
+docker container rm --force 01container 
